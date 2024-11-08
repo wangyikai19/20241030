@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\火箭隊-backend\20241030\20241030\bin\Debug\20241030.exe.config
+C:\Users\HP\Desktop\火箭隊-backend\20241030\20241030\bin\Debug\20241030.exe
+C:\Users\HP\Desktop\火箭隊-backend\20241030\20241030\bin\Debug\20241030.pdb
+C:\Users\HP\Desktop\火箭隊-backend\20241030\20241030\obj\Debug\20241030.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\火箭隊-backend\20241030\20241030\obj\Debug\20241030.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\火箭隊-backend\20241030\20241030\obj\Debug\20241030.exe
+C:\Users\HP\Desktop\火箭隊-backend\20241030\20241030\obj\Debug\20241030.pdb
